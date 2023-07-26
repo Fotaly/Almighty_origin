@@ -1,2 +1,3 @@
 我使用touch创建此文件，并且用vi来修改此文件。
 我从github上在线添加了这句话。
+我从github上在线添加了这句话，只针对newbranch1分支。
